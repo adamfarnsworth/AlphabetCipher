@@ -1,9 +1,0 @@
-﻿  Cipher.cpp
-c:\users\adam\workspace\vs\alphabetcipher\alphabetcipher\cipher.cpp(43): warning C4018: '<': signed/unsigned mismatch
-c:\users\adam\workspace\vs\alphabetcipher\alphabetcipher\cipher.cpp(46): warning C4018: '>': signed/unsigned mismatch
-c:\users\adam\workspace\vs\alphabetcipher\alphabetcipher\cipher.cpp(59): warning C4018: '<': signed/unsigned mismatch
-c:\users\adam\workspace\vs\alphabetcipher\alphabetcipher\cipher.cpp(68): warning C4018: '<': signed/unsigned mismatch
-  main.cpp
-c:\users\adam\workspace\vs\alphabetcipher\alphabetcipher\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  Generating Code...
-  AlphabetCipher.vcxproj -> C:\Users\Adam\workspace\vs\AlphabetCipher\Debug\AlphabetCipher.exe
