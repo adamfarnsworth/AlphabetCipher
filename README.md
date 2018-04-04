@@ -36,9 +36,8 @@ Z zabcdefghijklmnopqrstuvwxy
 
 Both people exchanging messages must agree on the secret keyword. To be effective, this keyword should not be written down anywhere, but memorized.
 
-To encode the message, first write it down.
-
-thepackagehasbeendelivered
+To encode the message, first write it down.  
+thepackagehasbeendelivered  
 Then, write the keyword, (for example, snitch), repeated as many times as necessary.  
 snitchsnitchsnitchsnitchsn  
 thepackagehasbeendelivered  
@@ -51,30 +50,30 @@ The encoded message is now lumicjcnoxjhkomxpkwyqogywq
 
 To decode, the other person would use the secret keyword and the table to look up the letters in reverse.
 
-##Input Description
+## Input Description
 Each input will consist of two strings, separate by a space. The first word will be the secret word, and the second will be the message to encrypt.
 
 snitch thepackagehasbeendelivered  
-##Output Description
+## Output Description
 Your program should print out the encrypted message.  
 
 lumicjcnoxjhkomxpkwyqogywq  
-###Challenge Inputs  
+### Challenge Inputs  
 bond theredfoxtrotsquietlyatmidnight  
 train murderontheorientexpress  
 garden themolessnuckintothegardenlastnight  
-###Challenge Outputs
+### Challenge Outputs
 uvrufrsryherugdxjsgozogpjralhvg  
 flrlrkfnbuxfrqrgkefckvsa  
 zhvpsyksjqypqiewsgnexdvqkncdwgtixkx  
-##Bonus
+## Bonus
 For a bonus, also implement the decryption portion of the algorithm and try to decrypt the following messages.
 
-###Bonus Inputs
+### Bonus Inputs
 cloak klatrgafedvtssdwywcyty  
 python pjphmfamhrcaifxifvvfmzwqtmyswst  
 moore rcfpsgfspiecbcc  
-###Bonus Outputs
+### Bonus Outputs
 iamtheprettiestunicorn  
 alwayslookonthebrightsideoflife  
 foryoureyesonly  
